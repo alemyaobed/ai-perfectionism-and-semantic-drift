@@ -36,15 +36,3 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
-
-# Data files (uncomment specific patterns as needed)
-# data/*.csv
-# data/*.json
-# data/*.xlsx
-# data/*.parquet
-
-# Results files (uncomment specific patterns as needed)
-# results/*.png
-# results/*.jpg
-# results/*.pdf
-# results/*.html
