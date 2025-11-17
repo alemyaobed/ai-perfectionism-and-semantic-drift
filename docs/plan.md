@@ -128,4 +128,3 @@ At each step, **compare** the current output with the original (A₁).
 - [OpenAI API docs](https://platform.openai.com/docs)
 - [SentenceTransformers](https://www.sbert.net/)
 - Papers on semantic drift, human-AI interaction, and perfectionism in usability studies
-
